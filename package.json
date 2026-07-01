@@ -1,0 +1,12 @@
+{
+  "name": "maido-oa-backend",
+  "version": "9.1.0",
+  "description": "麦多OA管理系统后端 - 纯JS版，无需编译依赖",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
